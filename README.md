@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://shaiksameer.vercel.app/](https://shaiksameer.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sameershaik.vercel.app/](https://shaiksameer.vercel.app/)
 
 - 💬 Ask me about **Frontend development**
 
